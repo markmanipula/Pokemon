@@ -1,0 +1,12 @@
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/bin/Debug/netcoreapp3.1/Pokemon.deps.json
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/bin/Debug/netcoreapp3.1/Pokemon.runtimeconfig.json
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/bin/Debug/netcoreapp3.1/Pokemon.runtimeconfig.dev.json
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/bin/Debug/netcoreapp3.1/Pokemon.dll
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/bin/Debug/netcoreapp3.1/Pokemon.pdb
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.csprojAssemblyReference.cache
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.AssemblyInfoInputs.cache
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.AssemblyInfo.cs
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.csproj.CoreCompileInputs.cache
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.dll
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.pdb
+/Users/muriel_sentoff/Projects/Pokemon/Pokemon/obj/Debug/netcoreapp3.1/Pokemon.genruntimeconfig.cache
